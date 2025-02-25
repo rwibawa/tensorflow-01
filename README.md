@@ -63,5 +63,16 @@ $ pip install --upgrade pip
 $ pip install tensorflow[and-cuda]
 ```
 
-### 3. Tensorflow Tutorial
+## 3. Tensorflow Tutorial
+### 3.1. Quickstart for beginners
 [Tutorial for beginner](https://www.tensorflow.org/tutorials/quickstart/beginner)
+
+### 3.2. ML basics with Keras
+```sh
+$ conda install matplotlib
+
+$ mkdir "ML basics with Keras"
+$ cd ML\ basics\ with\ Keras/
+$ wget https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/keras/classification.ipynb
+$ wget https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/keras/text_classification.ipynb
+```
